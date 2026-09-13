@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\lap01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|solutionrelative:lap01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|c:\\users\\dell\\onedrive\\documents\\2611comp101904-lap-trinh-windows\\lab01\\lab01\\lap01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|solutionrelative:lap01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|c:\\users\\dell\\onedrive\\documents\\2611comp101904-lap-trinh-windows\\lab01\\lab01\\lap01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFFB9B1-00CF-4D4C-8DC4-C6EFABAC5DF1}|Lap01\\Lap01.csproj|solutionrelative:lap01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lap01\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.Designer.cs",
+              "RelativeToolTip": "Lap01\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T15:35:52.009Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap01\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.cs",
+              "RelativeToolTip": "Lap01\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAywBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T15:38:34.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap01\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\2611COMP101904-Lap-trinh-Windows\\Lab01\\Lab01\\Lap01\\Form1.cs [Design]",
+              "RelativeToolTip": "Lap01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T15:35:43.621Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
