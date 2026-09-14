@@ -1,5 +1,5 @@
-﻿### Huong dan Lab01
-Markdown
+﻿### HƯỚNG DẪN LAB01
+ 
 # Lab 01 - Chương trình Thông tin cá nhân
 
 ## Thông tin sinh viên
