@@ -25,6 +25,7 @@
         private System.Windows.Forms.Button btnShow;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Panel rightPanel;
 
         /// <summary>
         ///  Clean up any resources being used.
@@ -60,9 +61,12 @@
             lblFaculty = new Label();
             cmbFaculty = new ComboBox();
             lblResult = new Label();
+            lstResult = new ListBox();
             btnShow = new Button();
             btnClear = new Button();
             btnExit = new Button();
+            rightPanel = new Panel();
+            rightPanel.SuspendLayout();
             SuspendLayout();
             // 
             // lblTitle
@@ -92,6 +96,7 @@
             txtName.Name = "txtName";
             txtName.Size = new Size(360, 27);
             txtName.TabIndex = 2;
+            txtName.TextChanged += txtName_TextChanged;
             // 
             // lblYear
             // 
@@ -175,31 +180,58 @@
             // 
             // lblResult
             // 
-            lblResult.Location = new Point(0, 0);
+            lblResult.AutoSize = true;
+            lblResult.Location = new Point(35, 266);
             lblResult.Name = "lblResult";
-            lblResult.Size = new Size(100, 23);
+            lblResult.Size = new Size(63, 20);
             lblResult.TabIndex = 12;
+            lblResult.Text = "Kết quả:";
+            lblResult.Click += lblResult_Click;
+            // 
+            // lstResult
+            // 
+            lstResult.Location = new Point(120, 260);
+            lstResult.Name = "lstResult";
+            lstResult.Size = new Size(660, 120);
+            lstResult.TabIndex = 13;
+            lstResult.SelectedIndexChanged += lstResult_SelectedIndexChanged;
             // 
             // btnShow
             // 
-            btnShow.Location = new Point(0, 0);
+            btnShow.Anchor = AnchorStyles.Top;
+            btnShow.Location = new Point(9, 20);
             btnShow.Name = "btnShow";
-            btnShow.Size = new Size(75, 23);
+            btnShow.Size = new Size(80, 28);
             btnShow.TabIndex = 14;
+            btnShow.Text = "Hiển thị";
             // 
             // btnClear
             // 
-            btnClear.Location = new Point(0, 0);
+            btnClear.Anchor = AnchorStyles.Top;
+            btnClear.Location = new Point(95, 20);
             btnClear.Name = "btnClear";
-            btnClear.Size = new Size(75, 23);
+            btnClear.Size = new Size(80, 28);
             btnClear.TabIndex = 15;
+            btnClear.Text = "Xóa";
             // 
             // btnExit
             // 
-            btnExit.Location = new Point(0, 0);
+            btnExit.Anchor = AnchorStyles.Top;
+            btnExit.Location = new Point(181, 20);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(75, 23);
+            btnExit.Size = new Size(80, 28);
             btnExit.TabIndex = 16;
+            btnExit.Text = "Thoát";
+            // 
+            // rightPanel
+            // 
+            rightPanel.Controls.Add(btnClear);
+            rightPanel.Controls.Add(btnExit);
+            rightPanel.Controls.Add(btnShow);
+            rightPanel.Location = new Point(283, 383);
+            rightPanel.Name = "rightPanel";
+            rightPanel.Size = new Size(277, 55);
+            rightPanel.TabIndex = 17;
             // 
             // Form1
             // 
@@ -219,17 +251,23 @@
             Controls.Add(lblFaculty);
             Controls.Add(cmbFaculty);
             Controls.Add(lblResult);
-            Controls.Add(btnShow);
-            Controls.Add(btnClear);
-            Controls.Add(btnExit);
+            Controls.Add(lstResult);
+            Controls.Add(rightPanel);
             Font = new Font("Segoe UI", 9F);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Thông tin sinh viên";
+            rightPanel.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
+
+        // Add this method to your Form1 partial class (usually in Form1.cs, but can be here for completeness)
+        private void lblResult_Click(object sender, EventArgs e)
+        {
+            // You can leave this empty or add logic as needed
+        }
     }
 }
