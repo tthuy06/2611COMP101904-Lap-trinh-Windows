@@ -9,13 +9,13 @@
 Chương trình viết bằng C# Console App cho phép quản lý một mảng số nguyên qua các chức năng nhập, xuất, tính toán và xử lý mảng thông qua menu tương tác.
 
 ## Chức năng chính
-1. Nhập mảng với kiểm tra số lượng phần tử $n$ phải là số nguyên dương[cite: 1].
-2. Xuất mảng ra màn hình[cite: 1].
-3. Tính tổng các phần tử[cite: 1].
-4. Tìm giá trị lớn nhất và nhỏ nhất[cite: 1].
-5. Đếm số lượng phần tử chẵn và lẻ[cite: 1].
-6. Sắp xếp mảng theo thứ tự tăng dần[cite: 1].
-7. Tìm kiếm giá trị $x$ và trả về vị trí đầu tiên xuất hiện[cite: 1].
+1. Nhập mảng với kiểm tra số lượng phần tử $n$ phải là số nguyên dương.
+2. Xuất mảng ra màn hình.
+3. Tính tổng các phần tử.
+4. Tìm giá trị lớn nhất và nhỏ nhất.
+5. Đếm số lượng phần tử chẵn và lẻ.
+6. Sắp xếp mảng theo thứ tự tăng dần.
+7. Tìm kiếm giá trị $x$ và trả về vị trí đầu tiên xuất hiện.
 
 ## Cách chạy chương trình
 1. Mở file `.sln` của Lab02 bằng Visual Studio.
