@@ -1,9 +1,9 @@
 # Lab 02 - Quản lý mảng số nguyên bằng Console
 
 ## Thông tin sinh viên
-* Họ tên: Hoàng Dương Phúc Quang
-* MSSV: 49.01.101.075
-* Lớp: 49.01.TOAN.SN
+* Họ tên: Nguyễn Thanh Thủy
+* MSSV: 50.01.104.160
+* Lớp: 50.CNTT.C
 
 ## Mô tả
 Chương trình viết bằng C# Console App cho phép quản lý một mảng số nguyên qua các chức năng nhập, xuất, tính toán và xử lý mảng thông qua menu tương tác.
