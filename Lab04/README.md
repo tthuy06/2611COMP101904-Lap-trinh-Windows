@@ -1,9 +1,9 @@
 # Báo cáo Bài tập Lab 04 - Lập trình Windows (C# WinForms)
 
 ## 📌 Thông tin sinh viên
-- **Họ và tên:** Nguyễn Thanh Thủy
-- **Môn học:** Lập trình Windows (COMP101904)
-- **Bài tập:** Lab 04
+* **Họ tên:** Nguyễn Thanh Thủy
+* **MSSV:** 50.01.104.160
+* **Lớp:** 50.CNTT.C
 
 ---
 
