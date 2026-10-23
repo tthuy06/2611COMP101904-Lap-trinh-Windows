@@ -1,5 +1,3 @@
-<img width="1456" height="493" alt="Ảnh chụp màn hình 2026-09-20 125126" src="https://github.com/user-attachments/assets/d7892ca3-a54c-40a2-a2b0-5c796867e597" /># Lab 03 - Quản lý sinh viên bằng Console
-
 ## Thông tin sinh viên
 * **Họ tên:** Nguyễn Thanh Thủy
 * **MSSV:** 50.01.104.160
