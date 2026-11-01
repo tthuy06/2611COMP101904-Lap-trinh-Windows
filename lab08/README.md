@@ -1,8 +1,9 @@
 # Lab 08 - Ứng dụng Paint đơn giản (GDI+)
 
 ## 📌 Thông tin sinh viên
-- **Môn học:** Lập trình trên Windows (COMP1019)
-- **Học phần:** Đồ họa 2D với GDI+
+* **Họ tên:** Nguyễn Thanh Thủy
+* **MSSV:** 50.01.104.160
+* **Lớp:** 50.CNTT.C
 
 ---
 
