@@ -1,4 +1,4 @@
-**# Lab 06 - Windows Forms Nâng cao & DataGridView (ProductManager)
+# Lab 06 - Windows Forms Nâng cao & DataGridView (ProductManager)
 
 ## 📌 Thông tin sinh viên
 * **Họ tên:** Nguyễn Thanh Thủy
