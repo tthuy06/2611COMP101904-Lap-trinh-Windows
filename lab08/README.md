@@ -26,4 +26,3 @@
 <img width="997" height="647" alt="Ảnh chụp màn hình 2026-11-01 160251 - Sao chép" src="https://github.com/user-attachments/assets/95e6071e-7b3a-44b0-bac6-9492e6ef6a6e" />
 <img width="1015" height="663" alt="Ảnh chụp màn hình 2026-11-01 160259 - Sao chép" src="https://github.com/user-attachments/assets/2aefc4a0-90d0-4af8-baca-671999d74540" />
 <img width="1000" height="660" alt="Ảnh chụp màn hình 2026-11-01 160307 - Sao chép" src="https://github.com/user-attachments/assets/79904edf-dc14-4394-9716-0e36096846a7" />
-<img width="1896" height="1030" alt="Ảnh chụp màn hình 2026-09-26 160612" src="https://github.com/user-attachments/assets/f4d6b620-6cfb-47f1-9cb9-8be12689cc32" />
