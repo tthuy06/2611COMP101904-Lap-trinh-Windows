@@ -18,3 +18,10 @@
 ## 🚀 Hướng dẫn chạy chương trình
 1. Mở project trong Visual Studio và chạy bằng phím `F5`.
 2. Nhập thông tin, chọn ảnh thẻ, nhấn **Xem trước khi in** hoặc **In** để kiểm tra kết quả.
+
+
+<img width="950" height="627" alt="Ảnh chụp màn hình 2026-11-01 161824" src="https://github.com/user-attachments/assets/977ab4be-b2b9-435e-87a8-9dde424eaae9" />
+<img width="1897" height="1145" alt="Ảnh chụp màn hình 2026-11-01 162023" src="https://github.com/user-attachments/assets/1cb42680-939f-49c8-b9a5-67e7f5e9a959" />
+<img width="952" height="637" alt="Ảnh chụp màn hình 2026-11-01 162028" src="https://github.com/user-attachments/assets/993320a8-3858-44b5-80e3-31235db4cc4d" />
+<img width="1068" height="936" alt="Ảnh chụp màn hình 2026-11-01 162037" src="https://github.com/user-attachments/assets/0bd91108-7162-4ca9-92dc-67bf7b3ddebe" />
+<img width="953" height="632" alt="Ảnh chụp màn hình 2026-11-01 162043" src="https://github.com/user-attachments/assets/61bad0fb-979d-437b-b86c-8fba996a37a9" />
