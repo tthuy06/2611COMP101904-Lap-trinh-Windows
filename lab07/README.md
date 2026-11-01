@@ -1,8 +1,9 @@
 # Lab 07 - SDI, MDI và Ứng dụng nhiều Form (ShopManagerMini)
 
 ## 📌 Thông tin sinh viên
-- **Môn học:** Lập trình trên Windows (COMP1019)
-- **Học phần:** Kiến trúc MDI và đa Form
+* **Họ tên:** Nguyễn Thanh Thủy
+* **MSSV:** 50.01.104.160
+* **Lớp:** 50.CNTT.C
 
 ---
 
