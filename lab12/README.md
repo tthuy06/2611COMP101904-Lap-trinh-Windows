@@ -19,3 +19,8 @@
 ## 🚀 Hướng dẫn chạy chương trình
 1. Chạy script SQL tạo database `QLSinhVienLab12` và các stored procedure yêu cầu.
 2. Mở ứng dụng, chọn Lớp, chọn Môn học, tải danh sách sinh viên, nhập điểm và bấm **Lưu tất cả**.
+
+
+<img width="638" height="478" alt="1793544797418_3321905381452441591_3321905381452441591_b7c86b30d0a09f206dfcadad672500c3" src="https://github.com/user-attachments/assets/e959e77e-72dd-4d25-bf8b-49bd705473c1" />
+<img width="642" height="475" alt="1793544797262_3321905381452441591_3321905381452441591_93b3a4791fb8783ec7cefde460ce7d6d" src="https://github.com/user-attachments/assets/011117c9-9d35-4e50-a865-19ccd8d4d5fe" />
+<img width="637" height="477" alt="1793544797887_3321905381452441591_3321905381452441591_7d9c63502b4d4b1a71344fc46076c628" src="https://github.com/user-attachments/assets/0ea08271-6740-4eba-a39b-bfa0040c041b" />
