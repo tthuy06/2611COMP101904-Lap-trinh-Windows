@@ -1,8 +1,9 @@
 # Lab 09 - Thiết kế và In thẻ sinh viên
 
 ## 📌 Thông tin sinh viên
-- **Môn học:** Lập trình trên Windows (COMP1019)
-- **Học phần:** Xử lý ảnh và In ấn (PrintDocument)
+* **Họ tên:** Nguyễn Thanh Thủy
+* **MSSV:** 50.01.104.160
+* **Lớp:** 50.CNTT.C
 
 ---
 
