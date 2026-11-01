@@ -18,3 +18,12 @@
 ## 🚀 Hướng dẫn chạy chương trình
 1. Mở project Paint bằng Visual Studio.
 2. Nhấn `F5`, chọn chế độ vẽ, chọn màu/độ dày trên thanh công cụ và kéo chuột trên vùng canvas để trải nghiệm.
+
+
+<img width="982" height="646" alt="Ảnh chụp màn hình 2026-11-01 160323 - Sao chép" src="https://github.com/user-attachments/assets/1c6e0e47-327b-435d-b1ed-a6dab355839f" />
+<img width="995" height="647" alt="Ảnh chụp màn hình 2026-11-01 160337 - Sao chép" src="https://github.com/user-attachments/assets/028ddbbb-290b-47fc-994a-7cd95fa26243" />
+<img width="991" height="647" alt="Ảnh chụp màn hình 2026-11-01 160245 - Sao chép" src="https://github.com/user-attachments/assets/820a4e9e-cccb-42f4-9a9f-7fc05dcb2561" />
+<img width="997" height="647" alt="Ảnh chụp màn hình 2026-11-01 160251 - Sao chép" src="https://github.com/user-attachments/assets/95e6071e-7b3a-44b0-bac6-9492e6ef6a6e" />
+<img width="1015" height="663" alt="Ảnh chụp màn hình 2026-11-01 160259 - Sao chép" src="https://github.com/user-attachments/assets/2aefc4a0-90d0-4af8-baca-671999d74540" />
+<img width="1000" height="660" alt="Ảnh chụp màn hình 2026-11-01 160307 - Sao chép" src="https://github.com/user-attachments/assets/79904edf-dc14-4394-9716-0e36096846a7" />
+<img width="1896" height="1030" alt="Ảnh chụp màn hình 2026-09-26 160612" src="https://github.com/user-attachments/assets/f4d6b620-6cfb-47f1-9cb9-8be12689cc32" />
